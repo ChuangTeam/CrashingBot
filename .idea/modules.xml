@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/TestQBot.iml" filepath="$PROJECT_DIR$/.idea/TestQBot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CrushingBot.iml" filepath="$PROJECT_DIR$/.idea/CrushingBot.iml" />
     </modules>
   </component>
 </project>

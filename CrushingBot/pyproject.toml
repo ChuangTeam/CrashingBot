@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "TestQBot"
+name = "CrushingBot"
 version = "0.1.0"
-description = "TestQBot"
+description = "CrushingBot"
 authors = []
 readme = "README.md"
 

@@ -1,4 +1,4 @@
-# TestQBot
+# CrushingBot
 
 ## How to start
 
